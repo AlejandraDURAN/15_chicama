@@ -1,0 +1,82 @@
+.boton{
+
+
+	background-color: orange;
+	font-size: 20px;
+	font-family: Verdana;
+	color:black;
+	height: 50px;
+	width: 130px;
+	margin-top: 70px;
+	margin-left: 70px;
+	
+
+}
+.lista{
+	list-style: none;
+	display: inline;
+
+	
+}
+
+.menu{
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 70px;
+	font-family: Verdana;
+}
+
+.logo{
+	height: 140px;
+	width:620px;
+	padding-top: 60px;
+	padding-right: 360px;
+
+
+}
+
+.imagencitas{
+	width: 95%;
+	padding-bottom: 1%;
+	padding-top: 12%;
+	margin-left: 5%;
+}
+
+.textito{
+	margin-left: 6%;
+}
+
+.textito1{
+	margin-left: 5%;
+}
+
+hr{
+	color: solid black;
+	width: 270px;
+	margin-left: 5%;
+	size:30px;
+	border: solid black 1px;
+	margin-bottom: 30px;
+}
+
+.fondo{
+	background-image: url("../img/grupal.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 600px;
+}
+
+footer{
+	background-color: #424242;
+
+}
+
+.colorfoot{
+	color: white;
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-top:20px;
+	margin-left: 10px;
+	
+	
+}
